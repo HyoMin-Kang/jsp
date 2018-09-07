@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;manager&apos;&#x0D;&#x0A;- Original project: &apos;cban&apos;&#x0D;&#x0A;- Destination element: &apos;manager&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     managerMain.jsp&#x0D;&#x0A;     orderedProduct&#x0D;&#x0A;     productProcess&#x0D;&#x0A;     logon" description="Copy elements" element1="WebContent/ch14shop/manager/managerMain.jsp" element2="WebContent/ch14shop/manager/orderedProduct" element3="WebContent/ch14shop/manager/productProcess" element4="WebContent/ch14shop/manager/logon" files="1" flags="589830" folders="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1529596940823" target="/cban/WebContent/bookshop/manager" units="0" version="1.0"/>
+</session>

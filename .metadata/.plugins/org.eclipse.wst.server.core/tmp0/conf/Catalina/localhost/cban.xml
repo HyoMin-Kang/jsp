@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="D:\_server\eclipse_workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\cban" path="/cban" reloadable="true" source="org.eclipse.jst.jee.server:cban">
+      	
+      	<Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxWait="5000" name="jdbc/cban" password="1234" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/cban" username="cban"/>
+      	
+      </Context>

@@ -1,0 +1,141 @@
+
+3월 29, 2018 24:24:58.79 NEW SESSION
+3월 29, 2018 24:24:58.79 [5236:5452:0329/002458.795:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+3월 29, 2018 01:03:18.87 [5236:3196:0329/010318.873:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:03:18.90 [5236:3196:0329/010318.908:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:03:19.20 [5236:3196:0329/010319.208:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:07:09.43 [5236:3196:0329/010709.432:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:07:09.46 [5236:3196:0329/010709.462:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:07:09.66 [5236:3196:0329/010709.667:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:08:14.05 [5236:3196:0329/010814.058:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:08:14.09 [5236:3196:0329/010814.093:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:08:14.24 [5236:3196:0329/010814.246:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:11:42.45 [5236:3196:0329/011142.455:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:11:42.50 [5236:3196:0329/011142.505:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:11:42.73 [5236:3196:0329/011142.736:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:13:09.77 [5236:3196:0329/011309.771:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:13:09.81 [5236:3196:0329/011309.815:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:13:09.99 [5236:3196:0329/011309.997:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:27:23.12 [5236:3196:0329/012723.129:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:27:23.16 [5236:3196:0329/012723.169:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+3월 29, 2018 01:27:23.43 [5236:3196:0329/012723.438:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+
+4월 03, 2018 20:10:21.29 NEW SESSION
+4월 03, 2018 20:10:21.30 [8800:11140:0403/201021.293:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+4월 03, 2018 20:10:22.84 [8800:5560:0403/201022.840:ERROR:in_progress_cache_impl.cc(189)] Cache is not initialized, cannot RetrieveEntry.
+4월 03, 2018 20:16:37.03 [8800:12460:0403/201637.030:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 20:16:37.06 [8800:12460:0403/201637.063:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 20:16:37.32 [8800:12460:0403/201637.324:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 20:16:53.96 [8800:12460:0403/201653.964:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 20:16:54.00 [8800:12460:0403/201654.005:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 20:16:54.18 [8800:12460:0403/201654.180:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 20:34:22.15 [8800:12460:0403/203422.152:ERROR:ssl_client_socket_impl.cc(1147)] handshake failed; returned -1, SSL error code 1, net_error -100
+4월 03, 2018 20:34:37.27 [8800:12460:0403/203437.279:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 20:34:37.31 [8800:12460:0403/203437.318:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:07:47.71 [8800:12460:0403/210747.716:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:07:47.75 [8800:12460:0403/210747.757:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:07:48.66 [8800:12460:0403/210748.661:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:12:20.05 [8800:12460:0403/211220.054:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:12:20.09 [8800:12460:0403/211220.091:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:14:42.77 [8800:12460:0403/211442.774:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:14:42.80 [8800:12460:0403/211442.803:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 03, 2018 21:14:43.07 [8800:12460:0403/211443.075:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+
+4월 12, 2018 19:26:21.20 NEW SESSION
+4월 12, 2018 19:26:21.20 [7660:13116:0412/192621.188:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+4월 12, 2018 19:27:14.25 [7660:8344:0412/192714.254:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:27:14.27 [7660:8344:0412/192714.278:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:27:14.48 [7660:8344:0412/192714.480:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:37:40.09 [7660:8344:0412/193740.096:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:37:40.15 [7660:8344:0412/193740.152:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:37:40.38 [7660:8344:0412/193740.379:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:45:03.26 [7660:8344:0412/194503.266:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:45:03.31 [7660:8344:0412/194503.313:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:45:03.50 [7660:8344:0412/194503.506:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:56:54.89 [7660:8344:0412/195654.899:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:56:54.93 [7660:8344:0412/195654.935:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:56:55.13 [7660:8344:0412/195655.138:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:57:09.45 [7660:8344:0412/195709.457:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:57:09.49 [7660:8344:0412/195709.492:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 19:57:09.69 [7660:8344:0412/195709.693:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 22:08:43.51 [7660:9576:0412/220843.515:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+4월 12, 2018 22:18:39.83 [7660:8344:0412/221839.836:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 12, 2018 22:18:39.85 [7660:8344:0412/221839.853:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+
+4월 26, 2018 14:10:20.39 NEW SESSION
+4월 26, 2018 14:10:20.39 [10372:8924:0426/141020.387:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+4월 26, 2018 14:10:31.10 [10372:4960:0426/141031.105:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:15:05.56 [10372:4960:0426/141505.565:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:15:05.61 [10372:4960:0426/141505.610:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:15:05.85 [10372:4960:0426/141505.852:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:21:01.67 [10372:4960:0426/142101.672:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:21:01.67 [10372:4960:0426/142101.677:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:21:01.85 [10372:4960:0426/142101.858:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:36:57.38 [10372:4960:0426/143657.387:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:36:57.41 [10372:4960:0426/143657.418:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:36:57.65 [10372:4960:0426/143657.651:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:49:55.29 [10372:4960:0426/144955.289:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:49:55.33 [10372:4960:0426/144955.332:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 14:49:55.50 [10372:4960:0426/144955.504:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:16:54.61 [10372:4960:0426/151654.619:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:16:54.65 [10372:4960:0426/151654.651:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:16:54.85 [10372:4960:0426/151654.853:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:31:59.05 [10372:4960:0426/153159.051:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:31:59.08 [10372:4960:0426/153159.083:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:31:59.43 [10372:4960:0426/153159.439:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:33:08.06 [10372:4960:0426/153308.065:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:33:08.10 [10372:4960:0426/153308.105:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 15:33:08.28 [10372:4960:0426/153308.286:ERROR:upload_data_presenter.cc(73)] NOT IMPLEMENTED
+4월 26, 2018 17:35:22.34 [10372:7404:0426/173522.346:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+4월 29, 2018 13:48:32.58 NEW SESSION
+4월 29, 2018 13:48:32.59 [4948:3456:0429/134832.584:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+4월 29, 2018 13:51:45.74 Unable to read VR Path Registry from C:\Users\win7_64\AppData\Local\openvr\openvrpaths.vrpath
+4월 29, 2018 13:51:45.74 [4948:11172:0429/135145.744:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+4월 29, 2018 17:23:13.25 [4948:11172:0429/172313.255:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+
+5월 02, 2018 20:31:17.51 NEW SESSION
+5월 02, 2018 20:31:17.51 [12732:11304:0502/203117.490:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5월 02, 2018 22:20:10.27 Unable to read VR Path Registry from C:\Users\win7_64\AppData\Local\openvr\openvrpaths.vrpath
+5월 02, 2018 22:20:10.27 [12732:12052:0502/222010.271:ERROR:CONSOLE(4560)] "Connection is closed, can't dispatch pending Debugger.setBlackboxPatterns", source: chrome-devtools://devtools/bundled/shell.js (4560)
+5월 03, 2018 02:43:40.01 
+5월 03, 2018 02:43:40.01 KLIB_SelfTest return : KLR_OK
+
+5월 05, 2018 21:46:12.35 NEW SESSION
+5월 05, 2018 21:46:12.35 [7892:11204:0505/214612.346:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5월 05, 2018 22:39:09.18 Unable to read VR Path Registry from C:\Users\win7_64\AppData\Local\openvr\openvrpaths.vrpath
+5월 05, 2018 22:39:09.19 [7892:9164:0505/223909.188:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+5월 05, 2018 23:21:02.57 [7892:9164:0505/232102.569:ERROR:CONSOLE(6)] "Uncaught ReferenceError: gbar is not defined", source: https://clients5.google.com/pagead/drt/dn/ (6)
+5월 05, 2018 23:47:22.76 
+5월 05, 2018 23:47:22.76 KLIB_SelfTest return : KLR_OK
+
+5월 09, 2018 18:15:55.27 NEW SESSION
+5월 09, 2018 18:15:55.27 [8632:10812:0509/181555.264:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5월 09, 2018 19:39:04.96 Unable to read VR Path Registry from C:\Users\win7_64\AppData\Local\openvr\openvrpaths.vrpath
+5월 09, 2018 19:39:04.96 [8632:10780:0509/193904.955:ERROR:ssl_client_socket_impl.cc(1098)] handshake failed; returned -1, SSL error code 1, net_error -101
+5월 10, 2018 24:17:46.21 
+5월 10, 2018 24:17:46.21 KLIB_SelfTest return : KLR_OK
+
+5월 16, 2018 23:48:27.14 NEW SESSION
+5월 16, 2018 23:48:27.14 [12664:17540:0516/234827.125:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5월 17, 2018 24:32:25.98 Unable to read VR Path Registry from C:\Users\win7_64\AppData\Local\openvr\openvrpaths.vrpath
+5월 17, 2018 24:32:25.98 [12664:17772:0517/003225.982:ERROR:CONSOLE(4560)] "Connection is closed, can't dispatch pending Debugger.setBlackboxPatterns", source: chrome-devtools://devtools/bundled/shell.js (4560)
+5월 17, 2018 24:34:21.49 [12664:17772:0517/003421.495:ERROR:CONSOLE(4560)] "Connection is closed, can't dispatch pending Debugger.setBlackboxPatterns", source: chrome-devtools://devtools/bundled/shell.js (4560)
+
+5월 17, 2018 22:49:10.75 NEW SESSION
+5월 17, 2018 22:49:10.75 [11220:8112:0517/224910.736:ERROR:in_progress_cache_impl.cc(93)] Could not read download entries from file because there was a read failure.
+5월 18, 2018 24:06:38.72 Unable to read VR Path Registry from C:\Users\win7_64\AppData\Local\openvr\openvrpaths.vrpath
+5월 18, 2018 24:06:38.73 [11220:6436:0518/000638.714:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+
+6월 20, 2018 20:18:36.07 NEW SESSION
+6월 20, 2018 20:18:36.07 [916:6704:0620/201836.064:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+6월 20, 2018 21:32:38.17 
+6월 20, 2018 21:32:38.17 KLIB_SelfTest return : KLR_OK
+
+6월 21, 2018 16:01:03.51 NEW SESSION
+6월 21, 2018 16:01:03.51 [10608:2724:0621/160103.500:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+6월 21, 2018 16:05:08.58 Unable to read VR Path Registry from C:\Users\win7_64\AppData\Local\openvr\openvrpaths.vrpath
+6월 21, 2018 16:05:08.58 [10608:2724:0621/160508.581:ERROR:CONSOLE(143)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://www.naver.com') does not match the recipient window's origin ('https://www.google.co.kr').", source: chrome-search://most-visited/single.js (143)
+6월 22, 2018 24:41:48.46 [10608:2724:0622/004146.246:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+6월 22, 2018 02:59:18.87 [10608:2724:0622/025918.857:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+6월 22, 2018 06:36:51.41 [10608:2724:0622/063651.413:ERROR:CONSOLE(143)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://www.naver.com') does not match the recipient window's origin ('https://www.google.co.kr').", source: chrome-search://most-visited/single.js (143)
